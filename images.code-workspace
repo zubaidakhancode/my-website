@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../website final/website1/images"
+		},
+		{
+			"path": "../../website final/website1/website1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website1"
+	}
+}
